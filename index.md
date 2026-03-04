@@ -1,36 +1,8 @@
-# Judul 1
-## Judul 2
-### Judul 3
-#### Judul 4
-##### Judul 5
-###### Judul 6
+# APA ITU GITHUB?
 
-**Bold Text**
+![gambar](./images/thumbnail-8.jpg)
 
-*Italic*
+***GitHub*** adalah platform berbasis cloud untuk menyimpan repositori Git.
+Platform ini memudahkan developer untuk berkolaborasi, mengelola proyek, serta melacak perubahan kode secara online.
 
-> blockquote
-> BlockQuote
-
-> Block
->Quote
-
-1. Satu
-2. Dua
-
-```javascript
-console.log('Hello World');
-console.log('Hello World');
-console.log('Hello World');
-```
-
----
-[Ke Halaman Github](https://github.com)
-
-[Ke Halaman 2](./halaman-2.md)
-
-![ini gambar](./images/473c5b6ba307ac2de5efb8c72e388f8a.jpg)
-
-| Syntax | Description |
-| --- | --- |
-| Header | Title |
+[Lihat Selengkapnya](./apa-itu-github-.md)
