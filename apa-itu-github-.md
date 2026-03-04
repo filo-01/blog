@@ -6,6 +6,7 @@
 Platform ini memudahkan developer untuk berkolaborasi, mengelola proyek, serta melacak perubahan kode secara online.
 
 Berikut adalah poin-poin penting tentang GitHub:
+
 | Aspek | Penjelasan |
 |--- | --- |
 |Hosting Kode & Git | Tempat menyimpan repositori Git agar perubahan kode bisa dicatat dan dilihat dengan mudah dan efisien.
